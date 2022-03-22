@@ -6,6 +6,10 @@ football players face recognizer with keras.
 
 Hello! this is a face recognizer for iranian football players.
 
+numpy dataset: https://drive.google.com/file/d/19wLxEd8T2gMckv6c72xRvl6J4e8jWJz-/view?usp=sharing
+images zip file(test and train): https://drive.google.com/file/d/1rQPc7J_q1JSfqgv-dvSACBB9FlzJMe_E/view?usp=sharing
+last model: https://drive.google.com/file/d/1_K5w1bkJMvMhe_d_BdkPz361QMmHZLwI/view?usp=sharing
+
 project has 4 part:
 
 1- dataset
