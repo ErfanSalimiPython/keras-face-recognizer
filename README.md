@@ -4,6 +4,7 @@ football players face recognizer with keras.
 Hello! this is a face recognizer for iranian football players.
 
 project has 4 part:
+
 1- dataset
 
 2- model
