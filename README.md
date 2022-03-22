@@ -5,8 +5,11 @@ Hello! this is a face recognizer for iranian football players.
 
 project has 4 part:
 1- dataset
+
 2- model
+
 3- test
+
 4- ui
 
 for use this model, you can go to "use" directory and run test.ipynb.
